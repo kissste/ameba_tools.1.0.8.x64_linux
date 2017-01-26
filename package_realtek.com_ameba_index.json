@@ -11,7 +11,7 @@
 
       "platforms": [
         {
-          "name": "Realtek Ameba Boards (32-bits ARM Cortex-M3) kissste's mod",
+          "name": "Realtek Ameba Boards (32-bits ARM Cortex-M3) kissste's x64_linux mod",
           "architecture": "ameba",
           "version": "2.0.0",
           "category": "Contributed",
